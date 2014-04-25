@@ -1,0 +1,2 @@
+1. use bootstrap accordian for verse detail screen (overview open, application, thoughts etc expandable)
+http://getbootstrap.com/javascript/#collapse-examples
