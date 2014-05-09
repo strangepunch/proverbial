@@ -1,0 +1,20 @@
+.backgroundImage{
+    background-image:url('/app/img/img-category/WaterMelGirl_samsungGs4.png');
+    background-size: cover;
+    background-color:#cc0000;
+    background-repeat: no-repeat;
+    min-height: 543px;
+    vertical-align:top;
+    margin-top: -20px;
+    padding-top: 43px;
+ }
+.invisibleBox{
+    width:140px;
+    border:solid;
+    visibility:hidden;
+}
+.lineBreak{
+   height:1px;
+   background: #000000;
+   border-bottom:1px solid gray;
+}
