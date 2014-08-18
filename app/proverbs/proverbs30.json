@@ -83,9 +83,9 @@
     {
         "chapter":30,
         "verse": "Proverbs 30:10",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_10",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Blessings, Curses",
         "categoryID": "NA",
         "text": "10 Do not malign a servant to his master, Lest he curse you, and you be found guilty."
     },
@@ -182,27 +182,27 @@
     {
         "chapter":30,
         "verse": "Proverbs 30:21",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_21THRU23",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "21 For three things the earth is perturbed, Yes, for four it cannot bear up:"
     },
     {
         "chapter":30,
         "verse": "Proverbs 30:22",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_21THRU23",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "22 For a servant when he reigns, A fool when he is filled with food,"
     },
     {
         "chapter":30,
         "verse": "Proverbs 30:23",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_21THRU23",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "23 A hateful woman when she is married, And a maidservant who succeeds her mistress."
     },
@@ -290,9 +290,9 @@
     {
         "chapter":30,
         "verse": "Proverbs 30:33",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_33",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "33 For as the churning of milk produces butter, And wringing the nose produces blood, So the forcing of wrath produces strife."
     }

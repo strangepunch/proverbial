@@ -1,126 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/proverbs/proverbs29.json" description="    {&#10;        &quot;chapter&quot;:29,&#10;        &quot;verse&quot;: &quot;Prov..." line="1" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="960be120-c993-4bc9-8619-6e4cdb8e4a6f" name="Default" comment="--combined backgroundimageCSS and catagorydetailCSS to proverbStyle.css file&#10;--set up template style for catagory-detail.html&#10;--made background image not scrollable&#10;--use z-index to have control on the depth of div placement, to make new background overlay possible">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs11.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs12.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs12.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs13.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs14.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs15.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs15.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs16.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs16.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs17.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs18.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs18.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs19.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs19.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs20.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs20.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs21.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs22.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs22.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs23.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs23.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs24.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs24.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs25.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs25.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs26.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs26.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs27.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs27.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs28.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs28.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs29.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs29.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs30.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs30.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list id="769d8fb7-121c-4e66-a027-23a1e333e5fc" name="Rejected commit: Default" comment="--combined backgroundimageCSS and catagorydetailCSS to proverbStyle.css file&#10;--set up template style for catagory-detail.html&#10;--made background image not scrollable&#10;--use z-index to have control on the depth of div placement, to make new background overlay possible">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/catagorydetailCSS.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/css/proverbsStyle.css" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-streak-7.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-streak-7.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-streak-7.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-streak-7.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-streak-7.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-venue.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-venue.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-venue.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-venue.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-venue.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\dell-venue.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\droid-2-global-by-motorola.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\droid-2-global-by-motorola.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\droid-2-global-by-motorola.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\droid-pro-by-motorola.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\droid-pro-by-motorola.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\lg-axis.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\lg-axis.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\lg-axis.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-atrix-4g.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-atrix-4g.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-atrix-4g.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-atrix-4g.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-bravo-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-bravo-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-bravo-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-charm-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-charm-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-charm-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-defy-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-defy-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-defy-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom-with-wi-fi.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom-with-wi-fi.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom-with-wi-fi.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom-with-wi-fi.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom-with-wi-fi.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom-with-wi-fi.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\motorola-xoom.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\nexus-s.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\nexus-s.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\nexus-s.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\nexus-s.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-galaxy-tab.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-galaxy-tab.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-galaxy-tab.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-galaxy-tab.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-galaxy-tab.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-galaxy-tab.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-galaxy-tab.6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-gem.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-gem.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-gem.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-mesmerize-a-galaxy-s-phone.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-mesmerize-a-galaxy-s-phone.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-mesmerize-a-galaxy-s-phone.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-mesmerize-a-galaxy-s-phone.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-showcase-a-galaxy-s-phone.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-showcase-a-galaxy-s-phone.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-showcase-a-galaxy-s-phone.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-transform.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-transform.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-transform.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-transform.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\samsung-transform.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\sanyo-zio.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\sanyo-zio.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\sanyo-zio.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-g2.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-g2.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-g2.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-mytouch-4g.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-mytouch-4g.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-mytouch-4g.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-mytouch-4g.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-mytouch-4g.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\img\phones\t-mobile-mytouch-4g.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\partials\phone-detail.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\partials\phone-list.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\adversity.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\dell-streak-7.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\dell-venue.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\droid-2-global-by-motorola.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\droid-pro-by-motorola.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\lg-axis.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\motorola-atrix-4g.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\motorola-bravo-with-motoblur.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\motorola-charm-with-motoblur.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\motorola-defy-with-motoblur.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\motorola-xoom-with-wi-fi.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\motorola-xoom.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\nexus-s.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\phones.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\provC1.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\samsung-galaxy-tab.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\samsung-gem.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\samsung-mesmerize-a-galaxy-s-phone.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\samsung-showcase-a-galaxy-s-phone.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\samsung-transform.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\sanyo-zio.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\t-mobile-g2.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Sheepy\WebstormProjects\proverbial-v1.2-s1\app\phones\t-mobile-mytouch-4g.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/backgroundimageCSS.css" afterPath="$PROJECT_DIR$/app/css/backgroundimageCSS.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/category-detail.html" afterPath="$PROJECT_DIR$/app/partials/category-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/category-list.html" afterPath="$PROJECT_DIR$/app/partials/category-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proverbs/proverbs.json" afterPath="$PROJECT_DIR$/app/proverbs/proverbs.json" />
     </list>
     <ignored path="proverbial.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/app/css/proverbsStyle.css" ignored="false" />
-    <file path="$PROJECT_DIR$/app/partials/category-detail.html" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,35 +47,7 @@
     <favorites_list name="proverbial" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="category-list.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/category-list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="189" selection-end="189" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="629">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="category-detail.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/partials/category-detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="77" selection-start="330" selection-end="330" vertical-scroll-proportion="0.30989584" vertical-offset="0" max-vertical-offset="384">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="proverbsStyle.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/proverbsStyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="24" selection-start="1284" selection-end="1284" vertical-scroll-proportion="-12.44" vertical-offset="573" max-vertical-offset="1326">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -197,22 +77,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs5.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs7.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs1.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs2.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs8.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs9.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs10.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs3.json" />
-        <option value="$PROJECT_DIR$/app/proverbs/proverbs6.json" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/css/catagorydetailCSS.css" />
-        <option value="$PROJECT_DIR$/app/css/backgroundimageCSS.css" />
-        <option value="$PROJECT_DIR$/app/css/app.css" />
-        <option value="$PROJECT_DIR$/app/partials/category-list.html" />
-        <option value="$PROJECT_DIR$/app/css/proverbsStyle.css" />
-        <option value="$PROJECT_DIR$/app/partials/category-detail.html" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs25.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs29.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs11.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs12.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs15.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs18.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs19.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs20.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs26.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs30.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs14.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs21.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs23.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs24.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs27.json" />
+        <option value="$PROJECT_DIR$/app/proverbs/proverbs28.json" />
       </list>
     </option>
   </component>
@@ -277,6 +157,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proverbial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proverbial-v1.2-s1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proverbs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,8 +262,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -373,6 +271,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -381,14 +287,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -400,6 +298,22 @@
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
     <list size="0" />
@@ -464,14 +378,33 @@
       <created>1400528326351</created>
       <updated>1400528326351</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="--combined backgroundimageCSS and catagorydetailCSS to proverbStyle.css file&#10;--set up template style for catagory-detail.html&#10;--made background image not scrollable&#10;--use z-index to have control on the depth of div placement, to make new background overlay possible">
+      <created>1400637707027</created>
+      <updated>1400637707027</updated>
+    </task>
+    <task id="LOCAL-00011" summary="--combined backgroundimageCSS and catagorydetailCSS to proverbStyle.css file&#10;--set up template style for catagory-detail.html&#10;--made background image not scrollable&#10;--use z-index to have control on the depth of div placement, to make new background overlay possible">
+      <created>1400637742372</created>
+      <updated>1400637742372</updated>
+    </task>
+    <task id="LOCAL-00012" summary="set up json files for proverbs chap 11 to 16">
+      <created>1401482121781</created>
+      <updated>1401482121781</updated>
+    </task>
+    <task id="LOCAL-00013" summary="finished copy verses in to the json files. need to be catagorized later">
+      <created>1404434246656</created>
+      <updated>1404434246656</updated>
+    </task>
+    <task id="LOCAL-00014" summary="--combined backgroundimageCSS and catagorydetailCSS to proverbStyle.css file&#10;--set up template style for catagory-detail.html&#10;--made background image not scrollable&#10;--use z-index to have control on the depth of div placement, to make new background overlay possible">
+      <created>1404434304732</created>
+      <updated>1404434304732</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="842" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -486,6 +419,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -493,8 +427,8 @@
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -526,6 +460,8 @@
     <MESSAGE value="added new category filter for category-list" />
     <MESSAGE value="images for background and transparent bit for li" />
     <MESSAGE value="verse of the day partial layout" />
+    <MESSAGE value="set up json files for proverbs chap 11 to 16" />
+    <MESSAGE value="finished copy verses in to the json files. need to be catagorized later" />
     <MESSAGE value="--combined backgroundimageCSS and catagorydetailCSS to proverbStyle.css file&#10;--set up template style for catagory-detail.html&#10;--made background image not scrollable&#10;--use z-index to have control on the depth of div placement, to make new background overlay possible" />
     <option name="LAST_COMMIT_MESSAGE" value="--combined backgroundimageCSS and catagorydetailCSS to proverbStyle.css file&#10;--set up template style for catagory-detail.html&#10;--made background image not scrollable&#10;--use z-index to have control on the depth of div placement, to make new background overlay possible" />
   </component>
@@ -533,112 +469,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/img/img-category/WaterMelGirl_samsungGs4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/app.css">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs29.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="222" selection-end="360" vertical-scroll-proportion="0.5741556" vertical-offset="0" max-vertical-offset="681">
+        <state line="193" column="34" selection-start="6598" selection-end="6598" vertical-scroll-proportion="-18.307692" vertical-offset="2805" max-vertical-offset="4250">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs.json">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs22.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.39719626" vertical-offset="255" max-vertical-offset="3332">
+        <state line="222" column="46" selection-start="7614" selection-end="7614" vertical-scroll-proportion="0.70076334" vertical-offset="3315" max-vertical-offset="4556">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/proverbs/adversity.json">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs11.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+        <state line="229" column="34" selection-start="8042" selection-end="8042" vertical-scroll-proportion="-16.346153" vertical-offset="3468" max-vertical-offset="4862">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbsV.json">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs15.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+        <state line="132" column="38" selection-start="4517" selection-end="4517" vertical-scroll-proportion="-17.653847" vertical-offset="1785" max-vertical-offset="5168">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs10.json">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs18.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5015">
+        <state line="103" column="34" selection-start="3453" selection-end="3453" vertical-scroll-proportion="-4.576923" vertical-offset="1632" max-vertical-offset="3791">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/filters.js">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs20.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="681">
+        <state line="60" column="71" selection-start="2125" selection-end="2125" vertical-scroll-proportion="-17.653847" vertical-offset="561" max-vertical-offset="4726">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/directives.js">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs30.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="681">
+        <state line="87" column="38" selection-start="3062" selection-end="3062" vertical-scroll-proportion="0.49275362" vertical-offset="1173" max-vertical-offset="5168">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/vofd.html">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs26.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="10" selection-start="34" selection-end="450" vertical-scroll-proportion="0.3114504" vertical-offset="0" max-vertical-offset="655">
+        <state line="13" column="33" selection-start="391" selection-end="391" vertical-scroll-proportion="0.33740458" vertical-offset="0" max-vertical-offset="4403">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs19.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.2979041" vertical-offset="867" max-vertical-offset="84439">
+        <state line="121" column="34" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.18167938" vertical-offset="1938" max-vertical-offset="4556">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers-new.js">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs12.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.02349486" vertical-offset="16" max-vertical-offset="697">
+        <state line="130" column="32" selection-start="4622" selection-end="4622" vertical-scroll-proportion="0.49312976" vertical-offset="1887" max-vertical-offset="4403">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs14.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="681">
+        <state line="267" column="39" selection-start="9141" selection-end="9141" vertical-scroll-proportion="-4.923077" vertical-offset="4411" max-vertical-offset="5474">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/category-list.html">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs21.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="189" selection-end="189" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="629">
+        <state line="229" column="40" selection-start="7887" selection-end="7887" vertical-scroll-proportion="-6.5384617" vertical-offset="3723" max-vertical-offset="4862">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/proverbsStyle.css">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs23.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="24" selection-start="1284" selection-end="1284" vertical-scroll-proportion="-12.44" vertical-offset="573" max-vertical-offset="1326">
+        <state line="148" column="34" selection-start="4859" selection-end="4859" vertical-scroll-proportion="-14.076923" vertical-offset="2150" max-vertical-offset="5474">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs24.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="32" selection-end="32" vertical-scroll-proportion="0.04028436" vertical-offset="0" max-vertical-offset="459">
+        <state line="175" column="40" selection-start="6135" selection-end="6135" vertical-scroll-proportion="-18.307692" vertical-offset="2499" max-vertical-offset="5321">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/category-detail.html">
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs27.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="77" selection-start="330" selection-end="330" vertical-scroll-proportion="0.30989584" vertical-offset="0" max-vertical-offset="384">
+        <state line="31" column="40" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-18.307692" vertical-offset="51" max-vertical-offset="4250">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proverbs/proverbs28.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="39" selection-start="4917" selection-end="4917" vertical-scroll-proportion="0.85801524" vertical-offset="1835" max-vertical-offset="4403">
           <folding />
         </state>
       </provider>

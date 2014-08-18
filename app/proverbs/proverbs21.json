@@ -74,9 +74,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:9",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_9",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "9 Better to dwell in a corner of a housetop, Than in a house shared with a contentious woman."
     },
@@ -119,9 +119,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:14",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_14",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "14 A gift in secret pacifies anger, And a bribe behind the back, strong wrath."
     },
@@ -164,9 +164,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:19",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_19",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "19 Better to dwell in the wilderness, Than with a contentious and angry woman."
     },
@@ -182,9 +182,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:21",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_21",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Adversity, Promises, Protection",
         "categoryID": "NA",
         "text": "21 He who follows righteousness and mercy Finds life, righteousness, and honor."
     },
@@ -209,27 +209,27 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:24",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_24",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "24 A proud and haughty man— “Scoffer” is his name; He acts with arrogant pride."
     },
     {
         "chapter":21,
         "verse": "Proverbs 21:25",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_25THRU26",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Covetousness, Envy",
         "categoryID": "NA",
         "text": "25 The desire of the lazy man kills him, For his hands refuse to labor."
     },
     {
         "chapter":21,
         "verse": "Proverbs 21:26",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_25THRU26",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Covetousness, Envy",
         "categoryID": "NA",
         "text": "26 He covets greedily all day long, But the righteous gives and does not spare."
     },

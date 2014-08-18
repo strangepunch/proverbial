@@ -2,9 +2,9 @@
     {
         "chapter":15,
         "verse": "Proverbs 15:1",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_1",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "1 A soft answer turns away wrath, But a harsh word stirs up anger."
     },
@@ -128,9 +128,9 @@
     {
         "chapter":15,
         "verse": "Proverbs 15:15",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_15",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Blessings, Curses",
         "categoryID": "NA",
         "text": "15 All the days of the afflicted are evil, But he who is of a merry heart has a continual feast."
     },
@@ -146,18 +146,18 @@
     {
         "chapter":15,
         "verse": "Proverbs 15:17",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_17THRU18",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "17 Better is a dinner of herbs where love is, Than a fatted calf with hatred."
     },
     {
         "chapter":15,
         "verse": "Proverbs 15:18",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_17THRU18",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "18 A wrathful man stirs up strife, But he who is slow to anger allays contention."
     },
@@ -254,9 +254,9 @@
     {
         "chapter":15,
         "verse": "Proverbs 15:29",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_29",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Adversity, Promises, Protection",
         "categoryID": "NA",
         "text": "29 The Lord is far from the wicked, But He hears the prayer of the righteous."
     },

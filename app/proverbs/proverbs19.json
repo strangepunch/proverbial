@@ -56,9 +56,9 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:7",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_7",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "7 All the brothers of the poor hate him; How much more do his friends go far from him! He may pursue them with words, yet they abandon him."
     },
@@ -92,18 +92,18 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:11",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_11THRU12",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "11 The discretion of a man makes him slow to anger, And his glory is to overlook a transgression."
     },
     {
         "chapter":19,
         "verse": "Proverbs 19:12",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_11THRU12",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "12 The king’s wrath is like the roaring of a lion, But his favor is like dew on the grass."
     },
@@ -119,9 +119,9 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:14",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_14",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Blessings, Curses",
         "categoryID": "NA",
         "text": "14 Houses and riches are an inheritance from fathers, But a prudent wife is from the Lord."
     },
@@ -146,9 +146,9 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:17",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_17",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Adversity, Promises, Protection",
         "categoryID": "NA",
         "text": "17 He who has pity on the poor lends to the Lord, And He will pay back what he has given."
     },
@@ -164,9 +164,9 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:19",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_19",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "19 A man of great wrath will suffer punishment; For if you rescue him, you will have to do it again."
     },
@@ -200,9 +200,9 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:23",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_23",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Adversity, Promises, Protection",
         "categoryID": "NA",
         "text": "23 The fear of the Lord leads to life, And he who has it will abide in satisfaction; He will not be visited with evil."
     },

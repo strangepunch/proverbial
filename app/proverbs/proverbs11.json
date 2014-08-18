@@ -65,9 +65,9 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:8",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_8",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Adversity, Promises, Protection",
         "categoryID": "NA",
         "text": "8 The righteous is delivered from trouble, And it comes to the wicked instead."
     },
@@ -182,9 +182,9 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:21",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_21",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Adversity, Promises, Protection",
         "categoryID": "NA",
         "text": "21 Though they join forces, the wicked will not go unpunished; But the posterity of the righteous will be delivered."
     },
@@ -200,9 +200,9 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:23",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_23",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "23 The desire of the righteous is only good, But the expectation of the wicked is wrath."
     },
@@ -218,19 +218,19 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:25",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_25",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Adversity, Promises, Protection",
         "categoryID": "NA",
         "text": "25 The generous soul will be made rich, And he who waters will also be watered himself."
     },
     {
         "chapter":11,
         "verse": "Proverbs 11:26",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_26",
         "imageUrl": "img/img-category/",
         "category": "NA",
-        "categoryID": "NA",
+        "categoryID": "Blessings, Curses",
         "text": "26 The people will curse him who withholds grain, But blessing will be on the head of him who sells it."
     },
     {

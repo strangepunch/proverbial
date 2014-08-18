@@ -11,9 +11,9 @@
     {
         "chapter":26,
         "verse": "Proverbs 26:2",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_2",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Blessings, Curses",
         "categoryID": "NA",
         "text": "2 Like a flitting sparrow, like a flying swallow, So a curse without cause shall not alight."
     },
@@ -146,9 +146,9 @@
     {
         "chapter":26,
         "verse": "Proverbs 26:17",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_17",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "17 He who passes by and meddles in a quarrel not his own Is like one who takes a dog by the ears."
     },
@@ -173,18 +173,18 @@
     {
         "chapter":26,
         "verse": "Proverbs 26:20",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_20THRU21",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "20 Where there is no wood, the fire goes out; And where there is no talebearer, strife ceases."
     },
     {
         "chapter":26,
         "verse": "Proverbs 26:21",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_20THRU21",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "21 As charcoal is to burning coals, and wood to fire, So is a contentious man to kindle strife."
     },
@@ -209,27 +209,27 @@
     {
         "chapter":26,
         "verse": "Proverbs 26:24",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_24THRU26AND28",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "24 He who hates, disguises it with his lips, And lays up deceit within himself;"
     },
     {
         "chapter":26,
         "verse": "Proverbs 26:25",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_24THRU26AND28",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "25 When he speaks kindly, do not believe him, For there are seven abominations in his heart;"
     },
     {
         "chapter":26,
         "verse": "Proverbs 26:26",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_24THRU26AND28",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "26 Though his hatred is covered by deceit, His wickedness will be revealed before the assembly."
     },
@@ -245,9 +245,9 @@
     {
         "chapter":26,
         "verse": "Proverbs 26:28",
-        "verseID": "Proverbs_26_",
+        "verseID": "Proverbs_26_24THRU26AND28",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Anger, Hatred, Contention",
         "categoryID": "NA",
         "text": "28 A lying tongue hates those who are crushed by it, And a flattering mouth works ruin."
     }
