@@ -110,9 +110,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:13",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_13",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Generosity, Greed",
         "categoryID": "NA",
         "text": "13 Whoever shuts his ears to the cry of the poor Will also cry himself and not be heard."
     },
@@ -227,9 +227,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:26",
-        "verseID": "Proverbs_21_25THRU26",
+        "verseID": "Proverbs_21_25THRU26OR26",
         "imageUrl": "img/img-category/",
-        "category": "Covetousness, Envy",
+        "category": "Covetousness, Envy, Generosity, Greed",
         "categoryID": "NA",
         "text": "26 He covets greedily all day long, But the righteous gives and does not spare."
     },

@@ -209,28 +209,28 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:24",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_24THRU26",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Generosity, Greed",
         "categoryID": "NA",
         "text": "24 There is one who scatters, yet increases more; And there is one who withholds more than is right, But it leads to poverty."
     },
     {
         "chapter":11,
         "verse": "Proverbs 11:25",
-        "verseID": "Proverbs_11_25",
+        "verseID": "Proverbs_11_25OR24THRU26",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Generosity, Greed",
         "categoryID": "NA",
         "text": "25 The generous soul will be made rich, And he who waters will also be watered himself."
     },
     {
         "chapter":11,
         "verse": "Proverbs 11:26",
-        "verseID": "Proverbs_11_26",
+        "verseID": "Proverbs_11_26OR24THRU26",
         "imageUrl": "img/img-category/",
         "category": "NA",
-        "categoryID": "Blessings, Curses",
+        "categoryID": "Blessings, Curses, Generosity, Greed",
         "text": "26 The people will curse him who withholds grain, But blessing will be on the head of him who sells it."
     },
     {

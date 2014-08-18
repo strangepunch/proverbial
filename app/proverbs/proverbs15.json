@@ -137,9 +137,9 @@
     {
         "chapter":15,
         "verse": "Proverbs 15:16",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_16",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Fear_of_God",
         "categoryID": "NA",
         "text": "16 Better is a little with the fear of the Lord, Than great treasure with trouble."
     },
@@ -236,9 +236,9 @@
     {
         "chapter":15,
         "verse": "Proverbs 15:27",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_27",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Generosity, Greed",
         "categoryID": "NA",
         "text": "27 He who is greedy for gain troubles his own house, But he who hates bribes will live."
     },
@@ -290,9 +290,9 @@
     {
         "chapter":15,
         "verse": "Proverbs 15:33",
-        "verseID": "Proverbs_15_",
+        "verseID": "Proverbs_15_33",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Fear_of_God",
         "categoryID": "NA",
         "text": "33 The fear of the Lord is the instruction of wisdom, And before honor is humility."
     }

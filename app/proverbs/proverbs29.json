@@ -155,9 +155,9 @@
     {
         "chapter":29,
         "verse": "Proverbs 29:18",
-        "verseID": "Proverbs_29_",
+        "verseID": "Proverbs_29_18",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "God_Commands",
         "categoryID": "NA",
         "text": "18 Where there is no revelation, the people cast off restraint; But happy is he who keeps the law."
     },
@@ -191,9 +191,9 @@
     {
         "chapter":29,
         "verse": "Proverbs 29:22",
-        "verseID": "Proverbs_29_22",
+        "verseID": "Proverbs_29_",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "NA",
         "categoryID": "NA",
         "text": "22 An angry man stirs up strife, And a furious man abounds in transgression."
     },

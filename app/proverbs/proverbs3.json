@@ -2,18 +2,18 @@
     {
         "chapter":3,
         "verse": "Proverbs 3:1",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_1THRU2",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "God_Commands",
         "categoryID": "NA",
         "text": "1 My son, do not forget my law, But let your heart keep my commands;"
     },
     {
         "chapter":3,
         "verse": "Proverbs 3:2",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_1THRU2",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "God_Commands",
         "categoryID": "NA",
         "text": "2 For length of days and long life And peace they will add to you."
     },
@@ -56,18 +56,18 @@
     {
         "chapter":3,
         "verse": "Proverbs 3:7",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_7THRU8",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Fear_of_God",
         "categoryID": "NA",
         "text": "7 Do not be wise in your own eyes; Fear the Lord and depart from evil."
     },
     {
         "chapter":3,
         "verse": "Proverbs 3:8",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_7THRU8",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Fear_of_God",
         "categoryID": "NA",
         "text": "8 It will be health to your flesh,And strength to your bones."
     },
@@ -76,7 +76,7 @@
         "verse": "Proverbs 3:9",
         "verseID": "Proverbs_3_9THRU10",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Generosity, Greed",
         "categoryID": "NA",
         "text": "9 Honor the Lord with your possessions, And with the firstfruits of all your increase;"
     },
@@ -236,18 +236,18 @@
     {
         "chapter":3,
         "verse": "Proverbs 3:27",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_27THRU28",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Generosity, Greed",
         "categoryID": "NA",
         "text": "27 Do not withhold good from those to whom it is due, When it is in the power of your hand to do so."
     },
     {
         "chapter":3,
         "verse": "Proverbs 3:28",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_27THRU28",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Generosity, Greed",
         "categoryID": "NA",
         "text": "28 Do not say to your neighbor, &quot;Go, and come back, And tomorrow I will give it,&quot; When you have it with you."
     },

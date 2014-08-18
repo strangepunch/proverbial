@@ -4,7 +4,7 @@
         "verse": "Proverbs 2:1",
         "verseID": "Proverbs_2_1THRU5",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, God_Commands",
         "categoryID": "NA",
         "text": "1 My son, if you receive my words, And treasure my commands within you,"
     },
@@ -13,7 +13,7 @@
         "verse": "Proverbs 2:2",
         "verseID": "Proverbs_2_1THRU5",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, God_Commands",
         "categoryID": "NA",
         "text": "2 So that you incline your ear to wisdom, And apply your heart to understanding;"
     },
@@ -22,25 +22,25 @@
         "verse": "Proverbs 2:3",
         "verseID": "Proverbs_2_1THRU5",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, God_Commands",
         "categoryID": "NA",
         "text": "3 Yes, if you cry out for discernment, And lift up your voice for understanding,"
     },
     {
         "chapter":2,
         "verse": "Proverbs 2:4",
-        "verseID": "Proverbs_2_1THRU5",
+        "verseID": "Proverbs_2_1THRU5OR4THRU5",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Fear_of_God, God_Commands",
         "categoryID": "NA",
         "text": "4 If you seek her as silver, And search for her as for hidden treasures;"
     },
     {
         "chapter":2,
         "verse": "Proverbs 2:5",
-        "verseID": "Proverbs_2_1THRU5",
+        "verseID": "Proverbs_2_1THRU5OR4THRU5",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Fear_of_God, God_Commands",
         "categoryID": "NA",
         "text": "5 Then you will understand the fear of the Lord, And find the knowledge of God."
     },

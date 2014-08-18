@@ -137,9 +137,9 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:16",
-        "verseID": "Proverbs_19_",
+        "verseID": "Proverbs_19_16",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "God_Commands",
         "categoryID": "NA",
         "text": "16 He who keeps the commandment keeps his soul, But he who is careless[a] of his ways will die."
     },
@@ -148,7 +148,7 @@
         "verse": "Proverbs 19:17",
         "verseID": "Proverbs_19_17",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Generosity, Greed",
         "categoryID": "NA",
         "text": "17 He who has pity on the poor lends to the Lord, And He will pay back what he has given."
     },
@@ -202,7 +202,7 @@
         "verse": "Proverbs 19:23",
         "verseID": "Proverbs_19_23",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Fear_of_God",
         "categoryID": "NA",
         "text": "23 The fear of the Lord leads to life, And he who has it will abide in satisfaction; He will not be visited with evil."
     },

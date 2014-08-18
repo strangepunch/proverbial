@@ -31,7 +31,7 @@
         "verse": "Proverbs 28:4",
         "verseID": "Proverbs_28_4",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "Anger, Hatred, Contention, God_Commands",
         "categoryID": "NA",
         "text": "4 Those who forsake the law praise the wicked, But such as keep the law contend with them."
     },
@@ -56,18 +56,18 @@
     {
         "chapter":28,
         "verse": "Proverbs 28:7",
-        "verseID": "Proverbs_28_",
+        "verseID": "Proverbs_28_7",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "God_Commands",
         "categoryID": "NA",
         "text": "7 Whoever keeps the law is a discerning son, But a companion of gluttons shames his father."
     },
     {
         "chapter":28,
         "verse": "Proverbs 28:8",
-        "verseID": "Proverbs_28_",
+        "verseID": "Proverbs_28_8",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Generosity, Greed",
         "categoryID": "NA",
         "text": "8 One who increases his possessions by usury and extortion Gathers it for him who will pity the poor."
     },
@@ -238,7 +238,7 @@
         "verse": "Proverbs 28:27",
         "verseID": "Proverbs_28_27",
         "imageUrl": "img/img-category/",
-        "category": "Blessings, Curses",
+        "category": "Blessings, Curses, Generosity, Greed",
         "categoryID": "NA",
         "text": "27 He who gives to the poor will not lack, But he who hides his eyes will have many curses."
     },

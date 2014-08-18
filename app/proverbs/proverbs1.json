@@ -56,9 +56,9 @@
     {
         "chapter":1,
         "verse": "Proverbs 1:7",
-        "verseID": "Proverbs_1_",
+        "verseID": "Proverbs_1_7",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Fear_of_God",
         "categoryID": "NA",
         "text": "7 The fear of the Lord is the beginning of knowledge, But fools despise wisdom and instruction."
     },
@@ -254,9 +254,9 @@
     {
         "chapter":1,
         "verse": "Proverbs 1:29",
-        "verseID": "Proverbs_1_",
+        "verseID": "Proverbs_1_29",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Fear_of_God",
         "categoryID": "NA",
         "text": "29 Because they hated knowledge And did not choose the fear of the Lord,"
     },
