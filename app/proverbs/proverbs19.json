@@ -92,9 +92,9 @@
     {
         "chapter":19,
         "verse": "Proverbs 19:11",
-        "verseID": "Proverbs_19_11THRU12",
+        "verseID": "Proverbs_19_11THRU12, Proverbs_19_11",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "Anger, Hatred, Contention, Hope, Mercy",
         "categoryID": "NA",
         "text": "11 The discretion of a man makes him slow to anger, And his glory is to overlook a transgression."
     },
@@ -121,7 +121,7 @@
         "verse": "Proverbs 19:14",
         "verseID": "Proverbs_19_14",
         "imageUrl": "img/img-category/",
-        "category": "Blessings, Curses",
+        "category": "Blessings, Curses, Virtuous_Woman",
         "categoryID": "NA",
         "text": "14 Houses and riches are an inheritance from fathers, But a prudent wife is from the Lord."
     },

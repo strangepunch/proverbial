@@ -184,7 +184,7 @@
         "verse": "Proverbs 30:21",
         "verseID": "Proverbs_30_21THRU23",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "Anger, Hatred, Contention,Virtuous_Woman",
         "categoryID": "NA",
         "text": "21 For three things the earth is perturbed, Yes, for four it cannot bear up:"
     },
@@ -193,7 +193,7 @@
         "verse": "Proverbs 30:22",
         "verseID": "Proverbs_30_21THRU23",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "Anger, Hatred, Contention, Virtuous_Woman",
         "categoryID": "NA",
         "text": "22 For a servant when he reigns, A fool when he is filled with food,"
     },
@@ -202,7 +202,7 @@
         "verse": "Proverbs 30:23",
         "verseID": "Proverbs_30_21THRU23",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "Anger, Hatred, Contention, Virtuous_Woman",
         "categoryID": "NA",
         "text": "23 A hateful woman when she is married, And a maidservant who succeeds her mistress."
     },
@@ -218,9 +218,9 @@
     {
         "chapter":30,
         "verse": "Proverbs 30:25",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_25",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Strength",
         "categoryID": "NA",
         "text": "25 The ants are a people not strong, Yet they prepare their food in the summer;"
     },
@@ -254,27 +254,27 @@
     {
         "chapter":30,
         "verse": "Proverbs 30:29",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_29THRU31",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Strength",
         "categoryID": "NA",
         "text": "29 There are three things which are majestic in pace, Yes, four which are stately in walk:"
     },
     {
         "chapter":30,
         "verse": "Proverbs 30:30",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_29THRU31",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Strength",
         "categoryID": "NA",
         "text": "30 A lion, which is mighty among beasts And does not turn away from any;"
     },
     {
         "chapter":30,
         "verse": "Proverbs 30:31",
-        "verseID": "Proverbs_30_",
+        "verseID": "Proverbs_30_29THRU31",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Strength",
         "categoryID": "NA",
         "text": "31 A greyhound, A male goat also, And a king whose troops are with him."
     },

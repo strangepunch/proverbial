@@ -29,7 +29,7 @@
     {
         "chapter":27,
         "verse": "Proverbs 27:4",
-        "verseID": "Proverbs_27_3THRU4OR4",
+        "verseID": "Proverbs_27_3THRU4, Proverbs_27_4",
         "imageUrl": "img/img-category/",
         "category": "Anger, Hatred, Contention,Covetousness, Envy",
         "categoryID": "NA",
@@ -112,7 +112,7 @@
         "verse": "Proverbs 27:13",
         "verseID": "Proverbs_27_13",
         "imageUrl": "img/img-category/",
-        "category": "Adultery, Seduction",
+        "category": "Adultery, Seduction, Surety",
         "categoryID": "NA",
         "text": "13 Take the garment of him who is surety for a stranger, And hold it in pledge when he is surety for a seductress."
     },
@@ -155,9 +155,9 @@
     {
         "chapter":27,
         "verse": "Proverbs 27:18",
-        "verseID": "Proverbs_27_",
+        "verseID": "Proverbs_27_18",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Hope, Mercy",
         "categoryID": "NA",
         "text": "18 Whoever keeps the fig tree will eat its fruit; So he who waits on his master will be honored."
     },

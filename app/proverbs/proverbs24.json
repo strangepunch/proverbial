@@ -38,9 +38,9 @@
     {
         "chapter":24,
         "verse": "Proverbs 24:5",
-        "verseID": "Proverbs_24_",
+        "verseID": "Proverbs_24_5",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Strength",
         "categoryID": "NA",
         "text": "5 A wise man is strong, Yes, a man of knowledge increases strength;"
     },
@@ -83,9 +83,9 @@
     {
         "chapter":24,
         "verse": "Proverbs 24:10",
-        "verseID": "Proverbs_24_10THRU12",
+        "verseID": "Proverbs_24_10THRU12, Proverbs_24_10",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Strength",
         "categoryID": "NA",
         "text": "10 If you faint in the day of adversity, Your strength is small."
     },
@@ -254,9 +254,9 @@
     {
         "chapter":24,
         "verse": "Proverbs 24:29",
-        "verseID": "Proverbs_24_",
+        "verseID": "Proverbs_24_29",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Hope, Mercy",
         "categoryID": "NA",
         "text": "29 Do not say, “I will do to him just as he has done to me; I will render to the man according to his work.”"
     },

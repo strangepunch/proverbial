@@ -83,18 +83,18 @@
     {
         "chapter":18,
         "verse": "Proverbs 18:10",
-        "verseID": "Proverbs_18_10",
+        "verseID": "Proverbs_18_10, Proverbs_18_10THRU11",
         "imageUrl": "img/img-category/",
-        "category": "Adversity, Promises, Protection",
+        "category": "Adversity, Promises, Protection, Strength",
         "categoryID": "NA",
         "text": "10 The name of the Lord is a strong tower; The righteous run to it and are safe."
     },
     {
         "chapter":18,
         "verse": "Proverbs 18:11",
-        "verseID": "Proverbs_18_",
+        "verseID": "Proverbs_18_10THRU11",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Strength",
         "categoryID": "NA",
         "text": "11 The rich man’s wealth is his strong city, And like a high wall in his own esteem."
     },
@@ -191,9 +191,9 @@
     {
         "chapter":18,
         "verse": "Proverbs 18:22",
-        "verseID": "Proverbs_18_",
+        "verseID": "Proverbs_18_22",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Virtuous_Woman",
         "categoryID": "NA",
         "text": "22 He who finds a wife finds a good thing, And obtains favor from the Lord."
     },

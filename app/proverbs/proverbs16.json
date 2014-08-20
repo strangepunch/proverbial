@@ -38,9 +38,9 @@
     {
         "chapter":16,
         "verse": "Proverbs 16:5",
-        "verseID": "Proverbs_16_",
+        "verseID": "Proverbs_16_5",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "What_does_God_HATE",
         "categoryID": "NA",
         "text": "5 Everyone proud in heart is an abomination to the Lord; Though they join forces, none will go unpunished."
     },
@@ -49,7 +49,7 @@
         "verse": "Proverbs 16:6",
         "verseID": "Proverbs_16_6",
         "imageUrl": "img/img-category/",
-        "category": "Fear_of_God",
+        "category": "Fear_of_God, Hope, Mercy",
         "categoryID": "NA",
         "text": "6 In mercy and truth Atonement is provided for iniquity; And by the fear of the Lord one departs from evil."
     },
@@ -92,9 +92,9 @@
     {
         "chapter":16,
         "verse": "Proverbs 16:11",
-        "verseID": "Proverbs_16_",
+        "verseID": "Proverbs_16_11",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "What_does_God_HATE",
         "categoryID": "NA",
         "text": "11 Honest weights and scales are the Lord’s; All the weights in the bag are His work."
     },
@@ -283,7 +283,7 @@
         "verse": "Proverbs 16:32",
         "verseID": "Proverbs_16_32",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "Anger, Hatred, Contention, Strength",
         "categoryID": "NA",
         "text": "32 He who is slow to anger is better than the mighty, And he who rules his spirit than he who takes a city."
     },

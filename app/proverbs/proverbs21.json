@@ -191,9 +191,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:22",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_22",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Strength",
         "categoryID": "NA",
         "text": "22 A wise man scales the city of the mighty, And brings down the trusted stronghold."
     },
@@ -227,7 +227,7 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:26",
-        "verseID": "Proverbs_21_25THRU26OR26",
+        "verseID": "Proverbs_21_25THRU26, Proverbs_21_26",
         "imageUrl": "img/img-category/",
         "category": "Covetousness, Envy, Generosity, Greed",
         "categoryID": "NA",
@@ -236,9 +236,9 @@
     {
         "chapter":21,
         "verse": "Proverbs 21:27",
-        "verseID": "Proverbs_21_",
+        "verseID": "Proverbs_21_27",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "What_does_God_HATE",
         "categoryID": "NA",
         "text": "27 The sacrifice of the wicked is an abomination; How much more when he brings it with wicked intent!"
     },

@@ -2,9 +2,9 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:1",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_1",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "What_does_God_HATE",
         "categoryID": "NA",
         "text": "1 Dishonest scales are an abomination to the Lord, But a just weight is His delight."
     },
@@ -56,9 +56,9 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:7",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_7",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Hope, Mercy",
         "categoryID": "NA",
         "text": "7 When a wicked man dies, his expectation will perish, And the hope of the unjust perishes."
     },
@@ -128,27 +128,27 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:15",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_15",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Surety",
         "categoryID": "NA",
         "text": "15 He who is surety for a stranger will suffer, But one who hates being surety is secure."
     },
     {
         "chapter":11,
         "verse": "Proverbs 11:16",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_16",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Virtuous_Woman, Strength",
         "categoryID": "NA",
         "text": "16 A gracious woman retains honor, But ruthless men retain riches."
     },
     {
         "chapter":11,
         "verse": "Proverbs 11:17",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_17",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Hope, Mercy",
         "categoryID": "NA",
         "text": "17 The merciful man does good for his own soul, But he who is cruel troubles his own flesh."
     },
@@ -173,9 +173,9 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:20",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_20",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "What_does_God_HATE",
         "categoryID": "NA",
         "text": "20 Those who are of a perverse heart are an abomination to the Lord, But the blameless in their ways are His delight."
     },
@@ -191,9 +191,9 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:22",
-        "verseID": "Proverbs_11_",
+        "verseID": "Proverbs_11_22",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Virtuous_Woman",
         "categoryID": "NA",
         "text": "22 As a ring of gold in a swine’s snout, So is a lovely woman who lacks discretion."
     },
@@ -202,7 +202,7 @@
         "verse": "Proverbs 11:23",
         "verseID": "Proverbs_11_23",
         "imageUrl": "img/img-category/",
-        "category": "Anger, Hatred, Contention",
+        "category": "Anger, Hatred, Contention, Hope, Mercy",
         "categoryID": "NA",
         "text": "23 The desire of the righteous is only good, But the expectation of the wicked is wrath."
     },
@@ -218,7 +218,7 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:25",
-        "verseID": "Proverbs_11_25OR24THRU26",
+        "verseID": "Proverbs_11_25, Proverbs_11_24THRU26",
         "imageUrl": "img/img-category/",
         "category": "Adversity, Promises, Protection, Generosity, Greed",
         "categoryID": "NA",
@@ -227,7 +227,7 @@
     {
         "chapter":11,
         "verse": "Proverbs 11:26",
-        "verseID": "Proverbs_11_26OR24THRU26",
+        "verseID": "Proverbs_11_26, Proverbs_11_24THRU26",
         "imageUrl": "img/img-category/",
         "category": "NA",
         "categoryID": "Blessings, Curses, Generosity, Greed",

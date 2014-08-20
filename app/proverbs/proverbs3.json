@@ -20,18 +20,18 @@
     {
         "chapter":3,
         "verse": "Proverbs 3:3",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_3THRU4",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Hope, Mercy",
         "categoryID": "NA",
         "text": "3 Let not mercy and truth forsake you; Bind them around your neck, Write them on the tablet of your heart,"
     },
     {
         "chapter":3,
         "verse": "Proverbs 3:4",
-        "verseID": "Proverbs_3_",
+        "verseID": "Proverbs_3_3THRU4",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Hope, Mercy",
         "categoryID": "NA",
         "text": "4 And so find favor and high esteem In the sight of God and man."
     },
@@ -281,9 +281,9 @@
     {
         "chapter":3,
         "verse": "Proverbs 3:32",
-        "verseID": "Proverbs_3_31THRU32",
+        "verseID": "Proverbs_3_31THRU32, Proverbs_3_32",
         "imageUrl": "img/img-category/",
-        "category": "Covetousness, Envy",
+        "category": "Covetousness, Envy, What_does_God_HATE",
         "categoryID": "NA",
         "text": "32 For the perverse person is an abomination to the Lord, But His secret counsel is with the upright."
     },

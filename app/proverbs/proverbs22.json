@@ -121,7 +121,7 @@
         "verse": "Proverbs 22:14",
         "verseID": "Proverbs_22_14",
         "imageUrl": "img/img-category/",
-        "category": "Adultery, Seduction",
+        "category": "Adultery, Seduction, What_does_God_HATE",
         "categoryID": "NA",
         "text": "14 The mouth of an immoral woman is a deep pit; He who is abhorred by the Lord will fall there."
     },
@@ -227,18 +227,18 @@
     {
         "chapter":22,
         "verse": "Proverbs 22:26",
-        "verseID": "Proverbs_22_",
+        "verseID": "Proverbs_22_26THRU27",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Surety",
         "categoryID": "NA",
         "text": "26 Do not be one of those who shakes hands in a pledge, One of those who is surety for debts;"
     },
     {
         "chapter":22,
         "verse": "Proverbs 22:27",
-        "verseID": "Proverbs_22_",
+        "verseID": "Proverbs_22_26THRU27",
         "imageUrl": "img/img-category/",
-        "category": "NA",
+        "category": "Surety",
         "categoryID": "NA",
         "text": "27 If you have nothing with which to pay, Why should he take away your bed from under you?"
     },
